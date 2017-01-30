@@ -1,0 +1,26 @@
+#main-heading {
+		text-align: center;
+		color: blue;
+		
+}
+
+h2 {
+    	text-align: center;
+}
+
+.place-description{
+		font-family: Verdana;
+		color: olive;
+		
+}
+
+.person-description{
+		color: purple;
+}
+
+
+
+.important-point{
+		text-decoration: underline;
+	
+}
